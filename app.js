@@ -108,7 +108,7 @@ setInterval(function(){
       }
     });
   }else{
-    console.log('taking a break. Be back in 6 hours ~');
+    console.log('taking a break. Coming back in ~ 6 hours.');
   }
 }, thirty)
 function restart(){
